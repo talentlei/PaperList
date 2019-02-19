@@ -1,7 +1,7 @@
 # PaperList
 分享推荐系统、NLP、机器学习领域优秀论文及阅读笔记。欢迎推荐优秀论文~
 
-__阅读笔记会第一时间发布在公众号："偶而小记"，欢迎关注__
+++阅读笔记会第一时间发布在公众号："偶而小记"，欢迎关注++
 
 ## Deep learning based Recommendation System
 1. A Multi-View Deep Learning Approach for Cross Domain.pdf
