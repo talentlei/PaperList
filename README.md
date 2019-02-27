@@ -9,7 +9,7 @@
 3. Wide & Deep Learning for Recommender Systems
     1. [《详解 Wide&Deep 推荐框架》](https://mp.weixin.qq.com/s/NQ2jmzrvT3OwD02DAHCTwQ)
 4. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
-    1. [深度推荐模型之DeepFM](https://mp.weixin.qq.com/s/BEnkW7lk3WoTidDbnGuMqA)
+    1. [《深度推荐模型之DeepFM》](https://mp.weixin.qq.com/s/BEnkW7lk3WoTidDbnGuMqA)
 5. Deep Learning based Recommender System-A Survey and New Perspectives
 
 
